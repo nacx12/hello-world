@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi people,
+
+nacx12 here. just folowing the first guide on github repositories.
